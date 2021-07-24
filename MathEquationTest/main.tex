@@ -1,0 +1,40 @@
+\RequirePackage{plautopatch}
+\RequirePackage[l2tabu, orthodox]{nag}
+
+\documentclass[platex,dvipdfmx]{jlreq}			% for platex
+% \documentclass[uplatex,dvipdfmx]{jlreq}		% for uplatex
+\usepackage{graphicx}
+\title{数式テスト}
+
+\author{岩瀬　憲一}
+\date{\today}
+\begin{document}
+\maketitle
+\section{数式の書き方}
+式$x^2 + y^2$はディスプレイ数式で
+\[
+x^2 + y^2
+\]
+と表される。\\
+また、正弦関数の加法定理は次のようになる。
+\begin{equation}
+  \sin(x+y) = \sin x \cos y + \cos x \sin y
+\end{equation}
+\section{分数の表現}
+式$\frac{1}{a} + \frac{1}{b} = \frac{a+b}{ab}$はディスプレイ数式で
+\[
+\frac{1}{a} + \frac{1}{b} = \frac{a+b}{ab}
+\]
+と表される。
+\section{添字の表現}
+総和記号$\sum_{n=1}^\infty$をディスプレイ数式で書くと、
+\[
+\sum_{n=1}^\infty
+\]
+となる。\\
+積分記号$ \int_a^b f(x)dx $をディスプレイ数式で書くと、
+\[
+\int_a^b f(x)dx
+\]
+となる。
+\end{document}
