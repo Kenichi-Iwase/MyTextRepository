@@ -1,3 +1,7 @@
 Hello, world!
+
 I like listening to music.
 My hobby is listening to music.
+
+I would like to write novels.
+I want to write programming.

@@ -85,3 +85,5 @@ AI化　Data Language
 時間配列　時系列
 空間配列 spacial array
 日本人は空間配列(spacial array)をスキルとして身に着ける必要あり
+
+LaTeX導入完了
