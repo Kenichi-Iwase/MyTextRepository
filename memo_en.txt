@@ -5,3 +5,8 @@ My hobby is listening to music.
 
 I would like to write novels.
 I want to write programming.
+
+The weather forecast says it will snow tomorrow.
+The weather forecast says it will rain tomorrow.
+
+Mt. Fuji is the highest mountain in Japan.
